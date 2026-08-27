@@ -51,10 +51,10 @@ Citations:
 
 Authors:
 
-José de Jesús Reyes Ramírez
-Eduardo Salvador Bañuelos Cabral
-José Alberto Gutiérrez Robles
-José de Jesús Nuño Ayón
+José de Jesús Reyes Ramírez.
+Eduardo Salvador Bañuelos Cabral.
+José Alberto Gutiérrez Robles.
+José de Jesús Nuño Ayón.
 
 Acknowledgment:
 
