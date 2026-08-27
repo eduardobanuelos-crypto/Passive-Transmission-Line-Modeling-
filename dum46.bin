@@ -1,0 +1,6 @@
+  After rewind.  L4HAND, IERROR = 10 0
+  Dummy  ENTRY ENDPLT  in  SUBROUTINE EXTRA.
+  Top reinitializes.   Set  LISBEG = -22666.
+  End.   M4PLOT, NOTMAX, KFILE5, LOCKBR = 2 0 0 0
+  OVER1 after EMTSPY.  LSTAT(14) = 0
+  Two or more HP-GL plots?  KNTHPG = 0
